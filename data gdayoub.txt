@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4Cva.webp",
+            "title": "standoff 2 ms 1",
+            "text_Content_": "Marksman players often rely on long-range rifles or sniper rifles for precise shots. The AWP and SVD are common choices for Marksman players in Standoff 2."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDDog.webp",
+            "title": "standoff 2 ms 2",
+            "text_Content_": "As a Marksman, your role is to control long sightlines and provide cover from a distance. Find good vantage points on the map that offer clear lines of sight to key areas."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDZDF.webp",
+            "title": "standoff 2 ms 3",
+            "text_Content_": "Precision is key for Marksman players. Take your time to line up your shots and aim for headshots whenever possible to eliminate opponents quickly."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDQN1.webp",
+            "title": "standoff 2 ms 4",
+            "text_Content_": "Be aware of the map layout and where your teammates are positioned. Communicate with your team to coordinate your efforts and provide valuable information."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKD6cQ.webp",
+            "title": "standoff 2 ms 5",
+            "text_Content_": "Use cover to your advantage. Stay hidden and move unpredictably to avoid being an easy target for opponents. Also, use smoke grenades to obscure sightlines."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDPSV.webp",
+            "title": "standoff 2 ms 6",
+            "text_Content_": "Practice quick scoping techniques to reduce the time it takes to line up shots. This can be a useful skill in close-quarters combat situations."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDsHB.webp",
+            "title": "standoff 2 ms 7",
+            "text_Content_": "While your primary role is to engage enemies from a distance, be prepared to switch to a secondary weapon or adapt to close-range combat if necessary."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKKDLAP.webp",
+            "title": "standoff 2 ms 8",
+            "text_Content_": "Make sure you are proficient with your sidearm, as it can save your life in close-quarters situations where your rifle might not be the best option."
         }
     ]
 }
